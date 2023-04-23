@@ -30,6 +30,8 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a53 -ftree-vectorize -fomit
 * [serioussamclassic-xplus-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-xplus-1.10.4-1_rpi3b_arm64.deb)  
 * [serioussamclassic-alpha-1.5.1-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-alpha-1.5.1-1_rpi3b_arm64.deb)
 
+Note: Raspberry Pi 3 users need to delete "Levels/KarnakDemo.wld" and "Levels/DeathMatch/DesertTemple.wld" files
+before starting Serious Sam Classic: The First Encounter to avoid running out of memory.
 
 ### Raspberry Pi 4/400
 
