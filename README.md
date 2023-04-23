@@ -1,15 +1,16 @@
 # Serious Sam Packages.
 
 This repository contains ready-to-install packages for games Serious Sam The First Encounter and Serious Sam The Second Encounter along with modifications.
+[See Wiki for a description of the modification.](https://github.com/tx00100xt/serioussam-packages/wiki)
 
 ## Debian. (buster)
 
 Flags: -mtune=generic
 
-[serioussamclassic-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages.git/Debian/buster/amd64/serioussamclassic-1.10.4-1_buster13_amd64.deb)  
-[serioussamclassic-vk-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages.git/Debian/buster/amd64/serioussamclassic-vk-1.10.4-1_buster13_amd64.deb)  
-[serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages.git/Debian/buster/amd64/serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb)  
-[serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages.git/Debian/buster/amd64/serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb)
+* [serioussamclassic-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-1.10.4-1_buster13_amd64.deb)  
+* [serioussamclassic-vk-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-vk-1.10.4-1_buster13_amd64.deb)  
+* [serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb)
 
 ## Raspberry Pi OS. (bullseye)
 
@@ -17,34 +18,34 @@ Flags: -mtune=generic
 
 Flags: -march=armv8-a+crc -mcpu=cortex-a53 -mfpu=neon-fp-armv8 -mfloat-abi=hard -ftree-vectorize -fomit-frame-pointer
 
-[serioussamclassic-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/armhf/serioussamclassic-1.10.4-1_rpi3b_armhf.deb)  
-[serioussamclassic-vk-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/armhf/serioussamclassic-vk-1.10.4-1_rpi3b_armhf.deb)  
-[serioussamclassic-xplus-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/armhf/serioussamclassic-xplus-1.10.4-1_rpi3b_armhf.deb)  
-[serioussamclassic-alpha-1.5.1-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/armhf/serioussamclassic-alpha-1.5.1-1_rpi3b_armhf.deb)
+* [serioussamclassic-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/armhf/serioussamclassic-1.10.4-1_rpi3b_armhf.deb)  
+* [serioussamclassic-vk-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/armhf/serioussamclassic-vk-1.10.4-1_rpi3b_armhf.deb)  
+* [serioussamclassic-xplus-1.10.4-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/armhf/serioussamclassic-xplus-1.10.4-1_rpi3b_armhf.deb)  
+* [serioussamclassic-alpha-1.5.1-1_rpi3b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/armhf/serioussamclassic-alpha-1.5.1-1_rpi3b_armhf.deb)
 
 Flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a53 -ftree-vectorize -fomit-frame-pointer
 
-[serioussamclassic-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/arm64/serioussamclassic-1.10.4-1_rpi3b_arm64.deb)  
-[serioussamclassic-vk-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/arm64/serioussamclassic-vk-1.10.4-1_rpi3b_arm64.deb)  
-[serioussamclassic-xplus-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/arm64/serioussamclassic-xplus-1.10.4-1_rpi3b_arm64.deb)  
-[serioussamclassic-alpha-1.5.1-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi3B/arm64/serioussamclassic-alpha-1.5.1-1_rpi3b_arm64.deb)
+* [serioussamclassic-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-1.10.4-1_rpi3b_arm64.deb)  
+* [serioussamclassic-vk-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-vk-1.10.4-1_rpi3b_arm64.deb)  
+* [serioussamclassic-xplus-1.10.4-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-xplus-1.10.4-1_rpi3b_arm64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_rpi3b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi3B/arm64/serioussamclassic-alpha-1.5.1-1_rpi3b_arm64.deb)
 
 
 ### Raspberry Pi 4/400
 
 Flags: -march=armv8-a+crc -mcpu=cortex-a72 -mfpu=neon-fp-armv8 -mfloat-abi=hard -ftree-vectorize -fomit-frame-pointer
 
-[serioussamclassic-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/armhf/serioussamclassic-1.10.4-1_rpi4b_armhf.deb)  
-[serioussamclassic-vk-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/armhf/serioussamclassic-vk-1.10.4-1_rpi4b_armhf.deb)  
-[serioussamclassic-xplus-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/armhf/serioussamclassic-xplus-1.10.4-1_rpi4b_armhf.deb)  
-[serioussamclassic-alpha-1.5.1-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/armhf/serioussamclassic-alpha-1.5.1-1_rpi4b_armhf.deb)
+* [serioussamclassic-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/armhf/serioussamclassic-1.10.4-1_rpi4b_armhf.deb)  
+* [serioussamclassic-vk-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/armhf/serioussamclassic-vk-1.10.4-1_rpi4b_armhf.deb)  
+* [serioussamclassic-xplus-1.10.4-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/armhf/serioussamclassic-xplus-1.10.4-1_rpi4b_armhf.deb)  
+* [serioussamclassic-alpha-1.5.1-1_rpi4b_armhf.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/armhf/serioussamclassic-alpha-1.5.1-1_rpi4b_armhf.deb)
 
 Flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
 
-[serioussamclassic-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/arm64/serioussamclassic-1.10.4-1_rpi4b_arm64.deb)  
-[serioussamclassic-vk-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/arm64/serioussamclassic-vk-1.10.4-1_rpi4b_arm64.deb)  
-[serioussamclassic-xplus-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/arm64/serioussamclassic-xplus-1.10.4-1_rpi4b_arm64.deb)  
-[serioussamclassic-alpha-1.5.1-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages.git/RasberryPiOS/RPi4B/arm64/serioussamclassic-alpha-1.5.1-1_rpi4b_arm64.deb)
+* [serioussamclassic-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-1.10.4-1_rpi4b_arm64.deb)  
+* [serioussamclassic-vk-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-vk-1.10.4-1_rpi4b_arm64.deb)  
+* [serioussamclassic-xplus-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-xplus-1.10.4-1_rpi4b_arm64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-alpha-1.5.1-1_rpi4b_arm64.deb)
 
 ## Location of game data, user data, and data modifications.
 
@@ -67,11 +68,11 @@ User data, such as game settings, log, saves, demos will be located in:
 
 ## Package Build Templates.
 
-[Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages.git/Templates/Debian-buster-x86_64.tar.gz)  
-[RPiOS-rpi3b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages.git/Templates/RPiOS-rpi3b-armhf.tar.gz)  
-[RPiOS-rpi3b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages.git/Templates/RPiOS-rpi3b-arm64.tar.gz)  
-[RPiOS-rpi4b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages.git/Templates/RPiOS-rpi4b-armhf.tar.gz)  
-[RPiOS-rpi4b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages.git/Templates/RPiOS-rpi4b-arm64.tar.gz)  
+* [Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-buster-x86_64.tar.gz)  
+* [RPiOS-rpi3b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-armhf.tar.gz)  
+* [RPiOS-rpi3b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-arm64.tar.gz)  
+* [RPiOS-rpi4b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi4b-armhf.tar.gz)  
+* [RPiOS-rpi4b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi4b-arm64.tar.gz)  
 
 ## Modifications resources.
 
