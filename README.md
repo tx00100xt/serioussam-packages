@@ -9,13 +9,12 @@ This repository contains ready-to-install packages for games Serious Sam The Fir
 
 Build flags: -mtune=generic
 
-* [serioussamclassic-1.10.4-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-1.10.4-1_stretch9_i386.deb)   
+* [serioussamclassic-1.10.4-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-1.10.4-1_stretch9_i386.deb)  
 * [serioussamclassic-xplus-1.10.4-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-xplus-1.10.4-1_stretch9_i386.deb)  
-* [serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb)
-
-* [serioussamclassic-1.10.4-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-1.10.4-1_stretch9_amd64.deb)   
+* [serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb)  
+* [serioussamclassic-1.10.4-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-1.10.4-1_stretch9_amd64.deb)  
 * [serioussamclassic-xplus-1.10.4-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-xplus-1.10.4-1_stretch9_amd64.deb)  
-* [serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb)
+* [serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb)  
 
 ### buster
 
@@ -84,6 +83,8 @@ User data, such as game settings, log, saves, demos will be located in:
 
 ## Package Build Templates.
 
+* [Debian-stretch-i386.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-i386.tar.gz)
+* [Debian-stretch-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-x86_64.tar.gz)
 * [Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-buster-x86_64.tar.gz)  
 * [RPiOS-rpi3b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-armhf.tar.gz)  
 * [RPiOS-rpi3b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-arm64.tar.gz)  
