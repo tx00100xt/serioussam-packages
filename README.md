@@ -23,7 +23,16 @@ Build flags: -mtune=generic
 * [serioussamclassic-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-1.10.4-1_buster13_amd64.deb)  
 * [serioussamclassic-vk-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-vk-1.10.4-1_buster13_amd64.deb)  
 * [serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-xplus-1.10.4-1_buster13_amd64.deb)  
-* [serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb)
+* [serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/buster/amd64/serioussamclassic-alpha-1.5.1-1_buster13_amd64.deb)  
+
+### bullseye
+
+Build flags: -mtune=generic
+
+* [serioussamclassic-1.10.4-1_bullseye6_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/bullseye/amd64/serioussamclassic-1.10.4-1_bullseye6_amd64.deb)  
+* [serioussamclassic-vk-1.10.4-1_bullseye6_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/bullseye/amd64/serioussamclassic-vk-1.10.4-1_bullseye6_amd64.deb)  
+* [serioussamclassic-xplus-1.10.4-1_bullseye6_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/bullseye/amd64/serioussamclassic-xplus-1.10.4-1_bullseye6_amd64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_bullseye6_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/bullseye/amd64/serioussamclassic-alpha-1.5.1-1_bullseye6_amd64.deb)  
 
 ## Raspberry Pi OS. (bullseye)
 
@@ -83,9 +92,10 @@ User data, such as game settings, log, saves, demos will be located in:
 
 ## Package Build Templates.
 
-* [Debian-stretch-i386.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-i386.tar.gz)
-* [Debian-stretch-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-x86_64.tar.gz)
+* [Debian-stretch-i386.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-i386.tar.gz)  
+* [Debian-stretch-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-x86_64.tar.gz)  
 * [Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-buster-x86_64.tar.gz)  
+* [Debian-bullseye-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-bullseye-x86_64.tar.gz)  
 * [RPiOS-rpi3b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-armhf.tar.gz)  
 * [RPiOS-rpi3b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-arm64.tar.gz)  
 * [RPiOS-rpi4b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi4b-armhf.tar.gz)  
