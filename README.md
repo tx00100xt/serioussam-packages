@@ -3,7 +3,21 @@
 This repository contains ready-to-install packages for games Serious Sam The First Encounter and Serious Sam The Second Encounter along with modifications.
 [See Wiki for a description of the modification.](https://github.com/tx00100xt/serioussam-packages/wiki)
 
-## Debian. (buster)
+## Debian.
+
+### stretch
+
+Build flags: -mtune=generic
+
+* [serioussamclassic-1.10.4-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-1.10.4-1_stretch9_i386.deb)   
+* [serioussamclassic-xplus-1.10.4-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-xplus-1.10.4-1_stretch9_i386.deb)  
+* [serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/i386/serioussamclassic-alpha-1.5.1-1_stretch9_i386.deb)
+
+* [serioussamclassic-1.10.4-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-1.10.4-1_stretch9_amd64.deb)   
+* [serioussamclassic-xplus-1.10.4-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-xplus-1.10.4-1_stretch9_amd64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Debian/stretch/amd64/serioussamclassic-alpha-1.5.1-1_stretch9_amd64.deb)
+
+### buster
 
 Build flags: -mtune=generic
 
@@ -169,3 +183,4 @@ as well as the Levels directory to directories ~/.local/share/Serious-Engine/ser
 [Xplus TFE from pCloud]: https://e1.pcloud.link/publink/show?code=XZ02gRZ4nhrRGPSfV4aEL4IF8GYySafWVJX "Serious Sam Classic XPLUS Mod"
 [Xplus TSE from pCloud]: https://e1.pcloud.link/publink/show?code=XZy2gRZ3D7n8fu83SkhIdB1xRaK7y9pKiry "Serious Sam Classic XPLUS Mod"
 [SeriousSamAlphaRemake_v1.5.7z]: https://drive.google.com/file/d/1JZouza6PCpqGbucFYLaMh1oDXmGbb7_6/view?usp=share_link "Serious Sam Classic SSA Mod"
+
