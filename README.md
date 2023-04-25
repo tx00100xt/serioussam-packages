@@ -71,6 +71,15 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit
 * [serioussamclassic-xplus-1.10.4-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-xplus-1.10.4-1_rpi4b_arm64.deb)  
 * [serioussamclassic-alpha-1.5.1-1_rpi4b_am64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/RasberryPiOS/RPi4B/arm64/serioussamclassic-alpha-1.5.1-1_rpi4b_arm64.deb)
 
+## Fedora 38
+
+Build flags: -mtune=generic
+
+* [serioussamclassic-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-1.10.4-1.fc38.x86_64.rpm)  
+* [serioussamclassic-vk-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-vk-1.10.4-1.fc38.x86_64.rpm)  
+* [serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm)  
+* [serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm)  
+
 ## Location of game data, user data, and data modifications.
 
 These packages use the paths:
@@ -100,6 +109,7 @@ User data, such as game settings, log, saves, demos will be located in:
 * [RPiOS-rpi3b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi3b-arm64.tar.gz)  
 * [RPiOS-rpi4b-armhf.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi4b-armhf.tar.gz)  
 * [RPiOS-rpi4b-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/RPiOS-rpi4b-arm64.tar.gz)  
+* [Fedora-38-rpmbuild.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Fedora-38-rpmbuild.tar.gz)  
 
 ## Modifications resources.
 
