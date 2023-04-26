@@ -80,6 +80,13 @@ Build flags: -mtune=generic
 * [serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm)  
 * [serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/amd64/serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm)  
 
+Sources:  
+
+* [serioussamclassic-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-1.10.4-1.fc38.src.rpm)  
+* [serioussamclassic-vk-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-vk-1.10.4-1.fc38.src.rpm)  
+* [serioussamclassic-xplus-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-xplus-1.10.4-1.fc38.src.rpm)  
+* [serioussamclassic-alpha-1.5.1-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-alpha-1.5.1-1.fc38.src.rpm)  
+
 ## ALT Linux
 
 Build flags: -mtune=generic
@@ -91,10 +98,10 @@ Build flags: -mtune=generic
 
 Sources:  
 
-* [serioussamclassic-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/amd64/serioussamclassic-1.10.4-alt1.src.rpm)   
-* [serioussamclassic-vk-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/amd64/serioussamclassic-vk-1.10.4-alt1.src.rpm)  
-* [serioussamclassic-xplus-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/amd64/serioussamclassic-xplus-1.10.4-alt1.src.rpm)  
-* [serioussamclassic-alpha-1.5.1-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/amd64/serioussamclassic-alpha-1.5.1-alt1.src.rpm)  
+* [serioussamclassic-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-1.10.4-alt1.src.rpm)   
+* [serioussamclassic-vk-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-vk-1.10.4-alt1.src.rpm)  
+* [serioussamclassic-xplus-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-xplus-1.10.4-alt1.src.rpm)  
+* [serioussamclassic-alpha-1.5.1-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-alpha-1.5.1-alt1.src.rpm)  
 
 
 ## Location of game data, user data, and data modifications.
