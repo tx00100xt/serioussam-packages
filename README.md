@@ -3,6 +3,17 @@
 This repository contains ready-to-install packages for games Serious Sam The First Encounter and Serious Sam The Second Encounter along with modifications.
 [See Wiki for a description of the modification.](https://github.com/tx00100xt/serioussam-packages/wiki)
 
+## Ubuntu
+
+### jammy
+
+Build flags: -mtune=generic
+
+* [serioussamclassic-1.10.4-1_jammy2_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/amd64/serioussamclassic-1.10.4-1_jammy2_amd64.deb)  
+* [serioussamclassic-vk-1.10.4-1_jammy2_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/amd64/serioussamclassic-vk-1.10.4-1_jammy2_amd64.deb)  
+* [serioussamclassic-xplus-1.10.4-1_jammy2_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/amd64/serioussamclassic-xplus-1.10.4-1_jammy2_amd64.deb)  
+* [serioussamclassic-alpha-1.5.1-1_jammy2_amd64.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/amd64/serioussamclassic-alpha-1.5.1-1_jammy2_amd64.deb)  
+
 ## Debian.
 
 ### stretch
