@@ -136,6 +136,7 @@ User data, such as game settings, log, saves, demos will be located in:
 
 ## Package Build Templates.
 
+* [Ubuntu-jammy-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Ubuntu-jammy-x86_64.tar.gz)  
 * [Debian-stretch-i386.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-i386.tar.gz)  
 * [Debian-stretch-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-x86_64.tar.gz)  
 * [Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-buster-x86_64.tar.gz)  
