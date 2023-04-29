@@ -114,6 +114,13 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a53 -ftree-vectorize -fomit
 * [serioussamclassic-xplus-1.10.4-rpi3b-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-xplus-1.10.4-rpi3b-alt1.aarch64.rpm)  
 * [serioussamclassic-alpha-1.5.1-rpi3b-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-alpha-1.5.1-rpi3b-alt1.aarch64.rpm)  
 
+Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
+
+* [serioussamclassic-1.10.4-rpi4-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-1.10.4-rpi4-alt1.aarch64.rpm)  
+* [serioussamclassic-vk-1.10.4-rpi4-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-vk-1.10.4-rpi4-alt1.aarch64.rpm)  
+* [serioussamclassic-xplus-1.10.4-rpi4-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-xplus-1.10.4-rpi4-alt1.aarch64.rpm)  
+* [serioussamclassic-alpha-1.5.1-rpi4-alt1.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/aarch64/serioussamclassic-alpha-1.5.1-rpi4-alt1.aarch64.rpm)  
+
 Sources:  
 
 * [serioussamclassic-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-1.10.4-alt1.src.rpm)   
