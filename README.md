@@ -102,6 +102,13 @@ Sources:
 
 Build flags: -mtune=generic
 
+* [serioussamclassic-1.10.4-alt1.athlon.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/athlon/serioussamclassic-1.10.4-alt1.athlon.rpm)  
+* [serioussamclassic-vk-1.10.4-alt1.athlon.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/athlon/serioussamclassic-vk-1.10.4-alt1.athlon.rpm)  
+* [serioussamclassic-xplus-1.10.4-alt1.athlon.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/athlon/serioussamclassic-xplus-1.10.4-alt1.athlon.rpm)  
+* [serioussamclassic-alpha-1.5.1-alt1.athlon.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/athlon/serioussamclassic-alpha-1.5.1-alt1.athlon.rpm)  
+
+Build flags: -mtune=generic
+
 * [serioussamclassic-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-1.10.4-alt1.x86_64.rpm)  
 * [serioussamclassic-vk-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-vk-1.10.4-alt1.x86_64.rpm)  
 * [serioussamclassic-xplus-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-xplus-1.10.4-alt1.x86_64.rpm)  
