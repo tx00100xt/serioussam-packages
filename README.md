@@ -159,7 +159,7 @@ Known bugs and how to solve them.
 </pre>
 file with the line 
 <pre>
-sam_strFirstLevel = "Levels\LevelsMP\1_1_Palenque.wld;
+sam_strFirstLevel = "Levels\\LevelsMP\\1_1_Palenque.wld;
 </pre>
 
 2) Modification of Serios Sam Alpha Remake freeze on the splash screen at startup. The solution is to edit or create a new 
