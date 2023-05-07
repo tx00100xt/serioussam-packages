@@ -150,6 +150,27 @@ Sources:
 * [serioussamclassic-alpha-1.5.1-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-alpha-1.5.1-alt1.src.rpm)  
 
 
+## Note for Raspberry Pi users: ##
+
+Known bugs and how to solve them.
+1) Game Serious Sam The Second Encounter freeze on the splash screen when you select New Game in the menu. The solution is to edit or create a new 
+<pre>
+~/.local/share/Serious-Engine/serioussamse/Scripts/Game_startup.ini
+</pre>
+file with the line 
+<pre>
+sam_strFirstLevel = "Levels\LevelsMP\1_1_Palenque.wld;
+</pre>
+
+2) Modification of Serios Sam Alpha Remake freeze on the splash screen at startup. The solution is to edit or create a new 
+<pre>
+~/.local/share/Serious-Engine/serioussam/Mods/SSA/Scripts/Mod_startup.ini
+</pre>
+file with the line 
+<pre>
+sam_strIntroLevel = "";
+</pre>
+
 ## Location of game data, user data, and data modifications.
 
 These packages use the paths:
