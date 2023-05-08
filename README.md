@@ -28,6 +28,15 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit
 * [serioussamclassic-xplus-1.10.4-1_jammy2_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/arm64/serioussamclassic-xplus-1.10.4-1_jammy2_arm64+rpi4.deb)  
 * [serioussamclassic-alpha-1.5.1-1_jammy2_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/jammy/arm64/serioussamclassic-alpha-1.5.1-1_jammy2_arm64+rpi4.deb)  
 
+### lunar
+
+Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
+
+* [serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb)  
+* [serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb)  
+* [serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb)  
+* [serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb)  
+
 ## Debian.
 
 ### stretch
@@ -194,6 +203,7 @@ User data, such as game settings, log, saves, demos will be located in:
 
 * [Ubuntu-jammy-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Ubuntu-jammy-x86_64.tar.gz)  
 * [Ubintu-jammy-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Ubintu-jammy-arm64.tar.gz)  
+* [Ubintu-lunar-arm64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Ubintu-lunar-arm64.tar.gz)  
 * [Debian-stretch-i386.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-i386.tar.gz)  
 * [Debian-stretch-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-stretch-x86_64.tar.gz)  
 * [Debian-buster-x86_64.tar.gz](https://github.com/tx00100xt/serioussam-packages/raw/main/Templates/Debian-buster-x86_64.tar.gz)  
