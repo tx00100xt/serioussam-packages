@@ -32,10 +32,10 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit
 
 Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
 
-* [serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb)  
-* [serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb)  
-* [serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb)  
-* [serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/raw/main/Ubuntu/lunar/arm64/serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb)  
+* [serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/blob/main/Ubuntu/lunar/serioussamclassic-1.10.4-1_lunar_arm64+rpi4.deb?raw=true)  
+* [serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/blob/main/Ubuntu/lunar/serioussamclassic-vk-1.10.4-1_lunar_arm64+rpi4.deb?raw=true)  
+* [serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/blob/main/Ubuntu/lunar/serioussamclassic-xplus-1.10.4-1_lunar_arm64+rpi4.deb?raw=true)  
+* [serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb](https://github.com/tx00100xt/serioussam-packages/blob/main/Ubuntu/lunar/serioussamclassic-alpha-1.5.1-1_lunar_arm64+rpi4.deb?raw=true)  
 
 ## Debian.
 
