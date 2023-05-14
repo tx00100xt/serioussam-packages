@@ -3,6 +3,10 @@
 This repository contains ready-to-install packages for games Serious Sam The First Encounter and Serious Sam The Second Encounter along with modifications.
 [See Wiki for a description of the modification.](https://github.com/tx00100xt/serioussam-packages/wiki)
 
+You can read detailed information on building packages for the game and add-ons on the Wiki:  
+https://github.com/tx00100xt/SeriousSamClassic/wiki  
+https://github.com/tx00100xt/SeriousSamClassic-VK/wiki  
+
 ## Ubuntu
 
 ### jammy
