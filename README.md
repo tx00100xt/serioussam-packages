@@ -114,19 +114,28 @@ Build flags: -mtune=generic
 * [serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm)  
 * [serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm)  
 
-Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
-
-* [serioussamclassic-1.10.4-1.fc38.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/aarch64/serioussamclassic-1.10.4-1.fc38.aarch64.rpm)  
-* [serioussamclassic-vk-1.10.4-1.fc38.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/aarch64/serioussamclassic-vk-1.10.4-1.fc38.aarch64.rpm)  
-* [serioussamclassic-xplus-1.10.4-1.fc38.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/aarch64/serioussamclassic-xplus-1.10.4-1.fc38.aarch64.rpm)  
-* [serioussamclassic-alpha-1.5.1-1.fc38.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/aarch64/serioussamclassic-alpha-1.5.1-1.fc38.aarch64.rpm)  
-
 Sources:  
 
 * [serioussamclassic-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-1.10.4-1.fc38.src.rpm)  
 * [serioussamclassic-vk-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-vk-1.10.4-1.fc38.src.rpm)  
 * [serioussamclassic-xplus-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-xplus-1.10.4-1.fc38.src.rpm)  
 * [serioussamclassic-alpha-1.5.1-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-alpha-1.5.1-1.fc38.src.rpm)  
+
+## Fedora 39
+
+Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit-frame-pointer
+
+* [serioussamclassic-1.10.4-1.fc39.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/aarch64/serioussamclassic-1.10.4-1.fc39.aarch64.rpm)  
+* [serioussamclassic-vk-1.10.4-1.fc39.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/aarch64/serioussamclassic-vk-1.10.4-1.fc39.aarch64.rpm)  
+* [serioussamclassic-xplus-1.10.4-1.fc39.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/aarch64/serioussamclassic-xplus-1.10.4-1.fc39.aarch64.rpm)  
+* [serioussamclassic-alpha-1.5.1-1.fc39.aarch64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/aarch64/serioussamclassic-alpha-1.5.1-1.fc39.aarch64.rpm)  
+
+Sources:  
+
+* [serioussamclassic-1.10.4-1.fc39.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/SRPMS/serioussamclassic-1.10.4-1.fc39.src.rpm)  
+* [serioussamclassic-vk-1.10.4-1.fc39.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/SRPMS/serioussamclassic-vk-1.10.4-1.fc39.src.rpm)  
+* [serioussamclassic-xplus-1.10.4-1.fc39.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/SRPMS/serioussamclassic-xplus-1.10.4-1.fc39.src.rpm)  
+* [serioussamclassic-alpha-1.5.1-1.fc39.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/39/SRPMS/serioussamclassic-alpha-1.5.1-1.fc39.src.rpm)  
 
 ## ALT Linux
 
