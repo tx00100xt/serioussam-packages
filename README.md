@@ -245,6 +245,11 @@ To start the modification, use the game menu - item Modification.
 
 ### Download from command promt.
 #### Getting Aplha Remake Data.
+```bash
+wget https://archive.org/download/serious-sam-alpha-remake-mod-data/SeriousSamAlphaRemake_v1.5.7z
+7z x -o~/.local/share/Serious-Engine/serioussam SeriousSamAlphaRemake_v1.5.7z
+```
+or
 ```bash 
 for var in a b c d; do wget https://github.com/tx00100xt/serioussam-mods/raw/main/SamTFE-SSA/SeriousSamAlphaRemake_v1.5.tar.xz.parta$var; done; cat SeriousSamAlphaRemake_v1.5.tar.xz.part* > SeriousSamAlphaRemake_v1.5.tar.xz
 ```
@@ -261,6 +266,12 @@ rm -rf Mods
 
 #### Getting XPLUS Data.
 ```bash 
+wget https://archive.org/download/sam-tfe-xplus/SamTFE-XPLUS.tar.xz
+
+wget https://archive.org/download/sam-tse-xplus/SamTSE-XPLUS.tar.xz
+```
+or
+```bash
 for var in a b c; do wget https://github.com/tx00100xt/serioussam-mods/raw/main/SamTFE-XPLUS/SamTFE-XPLUS.tar.xz.parta$var; done; cat SamTFE-XPLUS.tar.xz.part* > SamTFE-XPLUS.tar.xz
 
 for var in a b c; do wget https://github.com/tx00100xt/serioussam-mods/raw/main/SamTSE-XPLUS/SamTSE-XPLUS.tar.xz.parta$var; done; cat SamTSE-XPLUS.tar.xz.part* > SamTSE-XPLUS.tar.xz
