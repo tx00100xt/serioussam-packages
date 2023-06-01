@@ -246,19 +246,16 @@ To start the modification, use the game menu - item Modification.
 ### Download from command promt.
 #### Getting Aplha Remake Data.
 ```bash
-wget https://archive.org/download/serious-sam-alpha-remake-mod-data/SeriousSamAlphaRemake_v1.5.7z
+wget https://archive.org/download/serioussam-alpharemake-mod-data/SeriousSamAlphaRemake_v1.5.7z
 7z x -o~/.local/share/Serious-Engine/serioussam SeriousSamAlphaRemake_v1.5.7z
 ```
 or
 ```bash 
 for var in a b c d; do wget https://github.com/tx00100xt/serioussam-mods/raw/main/SamTFE-SSA/SeriousSamAlphaRemake_v1.5.tar.xz.parta$var; done; cat SeriousSamAlphaRemake_v1.5.tar.xz.part* > SeriousSamAlphaRemake_v1.5.tar.xz
 ```
-Note you must remove the libraries contained in the archive after unpacking the archive
 
 ```bash
 tar -xJvpf SeriousSamAlphaRemake_v1.5.tar.xz 
-rm Mods/SSA/Bin/libEntities.so
-rm Mods/SSA/Bin/libGame.so
 mkdir ~/.local/share/Serious-Engine/serioussam/Mods
 cp -vfr Mods/* ~/.local/share/Serious-Engine/serioussam/Mods
 rm -rf Mods
