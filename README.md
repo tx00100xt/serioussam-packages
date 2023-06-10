@@ -295,9 +295,8 @@ If you have a digital copy of the game on Steam then the resources can be found 
 ~/.local/share/Steam/SteamApps/common/Serious Sam Classic The Second Encounter/ (the default Steam game installation directory on Linux).
 
 ```bash 
-cd SeriousSamClassic
-cp -vfr "~/.local/share/Steam/SteamApps/common/Serious Sam Classic The First Encounter/"{*.gro,Levels,Help} ~/.local/share/Serious-Engine/serioussam
-cp -vfr "~/.local/share/Steam/SteamApps/common/Serious Sam Classic The Second Encounter/"{*.gro,Levels,Help} ~/.local/share/Serious-Engine/serioussamse
+rsync --progress -rh "$HOME/.local/share/Steam/steamapps/common/Serious Sam Classic The First Encounter/" "$HOME/.local/share/Serious-Engine/serioussam"
+rsync --progress -rh "$HOME/.local/share/Steam/steamapps/common/Serious Sam Classic The Second Encounter/" "$HOME/.local/share/Serious-Engine/serioussamse"
 ```
 
 ### GOG version.
