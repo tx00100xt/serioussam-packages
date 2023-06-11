@@ -113,17 +113,17 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit
 
 Build flags: -mtune=generic
 
-* [serioussamclassic-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-1.10.5-1.fc38.x86_64.rpm)  
-* [serioussamclassic-vk-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-vk-1.10.5-1.fc38.x86_64.rpm)  
-* [serioussamclassic-xplus-1.10.4-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-xplus-1.10.5-1.fc38.x86_64.rpm)  
-* [serioussamclassic-alpha-1.5.1-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-alpha-1.5.2-1.fc38.x86_64.rpm)  
+* [serioussamclassic-1.10.5-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-1.10.5-1.fc38.x86_64.rpm)  
+* [serioussamclassic-vk-1.10.5-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-vk-1.10.5-1.fc38.x86_64.rpm)  
+* [serioussamclassic-xplus-1.10.5-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-xplus-1.10.5-1.fc38.x86_64.rpm)  
+* [serioussamclassic-alpha-1.5.2-1.fc38.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/x86_64/serioussamclassic-alpha-1.5.2-1.fc38.x86_64.rpm)  
 
 Sources:  
 
-* [serioussamclassic-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-1.10.5-1.fc38.src.rpm)  
-* [serioussamclassic-vk-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-vk-1.10.5-1.fc38.src.rpm)  
-* [serioussamclassic-xplus-1.10.4-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-xplus-1.10.4-5.fc38.src.rpm)  
-* [serioussamclassic-alpha-1.5.1-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-alpha-1.5.2-1.fc38.src.rpm)  
+* [serioussamclassic-1.10.5-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-1.10.5-1.fc38.src.rpm)  
+* [serioussamclassic-vk-1.10.5-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-vk-1.10.5-1.fc38.src.rpm)  
+* [serioussamclassic-xplus-1.10.5-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-xplus-1.10.5-1.fc38.src.rpm)  
+* [serioussamclassic-alpha-1.5.2-1.fc38.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/Fedora/38/SRPMS/serioussamclassic-alpha-1.5.2-1.fc38.src.rpm)  
 
 ## Fedora 39
 
@@ -152,10 +152,10 @@ Build flags: -mtune=generic
 
 Build flags: -mtune=generic
 
-* [serioussamclassic-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-1.10.5-alt1.x86_64.rpm)  
-* [serioussamclassic-vk-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-vk-1.10.5-alt1.x86_64.rpm)  
-* [serioussamclassic-xplus-1.10.4-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-xplus-1.10.5-alt1.x86_64.rpm)  
-* [serioussamclassic-alpha-1.5.1-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-alpha-1.5.2-alt1.x86_64.rpm)  
+* [serioussamclassic-1.10.5-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-1.10.5-alt1.x86_64.rpm)  
+* [serioussamclassic-vk-1.10.5-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-vk-1.10.5-alt1.x86_64.rpm)  
+* [serioussamclassic-xplus-1.10.5-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-xplus-1.10.5-alt1.x86_64.rpm)  
+* [serioussamclassic-alpha-1.5.2-alt1.x86_64.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/x86_64/serioussamclassic-alpha-1.5.2-alt1.x86_64.rpm)  
 
 Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a53 -ftree-vectorize -fomit-frame-pointer
 
@@ -173,10 +173,10 @@ Build flags: -march=armv8-a+crc+fp+simd -mcpu=cortex-a72 -ftree-vectorize -fomit
 
 Sources:  
 
-* [serioussamclassic-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-1.10.5-alt1.src.rpm)   
-* [serioussamclassic-vk-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-vk-1.10.5-alt1.src.rpm)  
-* [serioussamclassic-xplus-1.10.4-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-xplus-1.10.5-alt1.src.rpm)  
-* [serioussamclassic-alpha-1.5.1-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-alpha-1.5.2-alt1.src.rpm)  
+* [serioussamclassic-1.10.5-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-1.10.5-alt1.src.rpm)   
+* [serioussamclassic-vk-1.10.5-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-vk-1.10.5-alt1.src.rpm)  
+* [serioussamclassic-xplus-1.10.5-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-xplus-1.10.5-alt1.src.rpm)  
+* [serioussamclassic-alpha-1.5.2-alt1.src.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/SRPMS/serioussamclassic-alpha-1.5.2-alt1.src.rpm)  
 
 
 ## Note for Raspberry Pi users: ##
