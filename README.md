@@ -163,6 +163,8 @@ Sources:
 
 ## ALT Linux
 
+**Note:** You can also download ready-made packages for ALT Linux in the club repository: http://altlinuxclub.ru/repo/repo.html
+
 Build flags: -mtune=generic
 
 * [serioussamclassic-1.10.4-alt1.athlon.rpm](https://github.com/tx00100xt/serioussam-packages/raw/main/ALTLinux/athlon/serioussamclassic-1.10.4-alt1.athlon.rpm)  
