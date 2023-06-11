@@ -9,7 +9,7 @@ https://github.com/tx00100xt/SeriousSamClassic-VK/wiki
 
 ## Ubuntu
 
-**Note:** Ready made packages you can install from launcpad.
+**Note:** Ready made packages you can install from launchpad.
 ```bash 
 sudo add-apt-repository ppa:tx00100xt/serioussam
 sudo apt update
