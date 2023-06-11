@@ -9,6 +9,26 @@ https://github.com/tx00100xt/SeriousSamClassic-VK/wiki
 
 ## Ubuntu
 
+**Note:** Ready made packages you can install from launcpad.
+```bash 
+sudo add-apt-repository ppa:tx00100xt/serioussam
+sudo apt update
+```
+This PPA can be added to your system manually by copying the lines below and adding them to your system's software sources.
+```bash 
+deb https://ppa.launchpadcontent.net/tx00100xt/serioussam/ubuntu YOUR_UBUNTU_VERSION_HERE main 
+deb-src https://ppa.launchpadcontent.net/tx00100xt/serioussam/ubuntu YOUR_UBUNTU_VERSION_HERE main 
+```
+The repository contains packages for **"jammy"**, **"kinetic"** and **"lunar"**
+After adding the repository, run the commands:
+```bash 
+sudo apt install serioussamclassic serioussamclassic-xplus serioussam-alpha
+```
+or
+```bash 
+sudo apt install serioussamclassic-vk serioussamclassic-xplus serioussam-alpha
+```
+
 ### jammy
 
 Build flags: -mtune=generic
